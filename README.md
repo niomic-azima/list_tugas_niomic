@@ -1,12 +1,12 @@
 # list_tugas_niomic
 
-1. HTML
-2. CSS
-3.JAVASCRIPT
-4.REACT JS
-5. DATABASE
-6. NODEJS
-7. DEPLOYMENT
-8. REACT NATIVE
-9. PHP
-10. GOLANG
+1. HTML <br>
+2. CSS<br>
+3.JAVASCRIPT <br>
+4.REACT JS <br>
+5. DATABASE <br>
+6. NODEJS <br>
+7. DEPLOYMENT <br>
+8. REACT NATIVE <br>
+9. PHP <br>
+10. GOLANG <br>
